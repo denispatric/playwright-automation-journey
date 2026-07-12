@@ -10,8 +10,7 @@
 
 - UI Automation
 - API Testing
-- Page Object Model
-- Fixtures
+- Cookie authentication
 - Assertions
 
 ## Test Scenarios
